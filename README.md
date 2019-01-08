@@ -19,4 +19,4 @@
 
 ## 시스템 구조
 
-![System structure](./images/Systemstructure.JPG)
+![system structure](https://user-images.githubusercontent.com/34755287/50805381-7219d200-1335-11e9-8beb-f86ed4c1b31d.JPG)
