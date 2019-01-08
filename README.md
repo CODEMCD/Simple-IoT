@@ -19,4 +19,4 @@
 
 ## 시스템 구조
 
-![System structure](./images/System structure.JPG)
+![System structure](./images/Systemstructure.JPG)
